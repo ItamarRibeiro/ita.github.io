@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -8,28 +7,54 @@
 </head>
 
 <body>
-  <h1>Informações do meu LinkedIn</h1>
+  <h1>Itamar de Castro Ribeiro</h1>
 
-  <h2>Itamar Ribeiro</h2>
+  <h2>Blockchain Enthusiast | Product Manager | Agile Coach
+Talks about #agile, #product, #startup, #blockchain, and #innovation</h2>
 
-  <h3>Sobre mim</h3>
-  <p>Eu sou um profissional de [sua área de atuação] com experiência em [habilidades/experiências]. Estou sempre em busca de novos desafios e oportunidades.</p>
+  <h3>About</h3>
+  <p>BLOCKCHAIN | STARTUP | OKR | SCRUM | KANBAN | 7D DO PRODUTO | PBB | BDD | BPMN | JIRA | AZURE DEVOPS.
+
+Professional with over 12 years of experience in Technology, Business and Projects.
+
+Expertise in banking automation systems, education, pharmaceutical industry, real estate, telecommunications, government and agency.
+Enthusiast of agile methodologies, acting as Product Owner and Scrum Master. Currently focused on team performance, through techniques, dynamics and metrics.
+
+Use of OKR, Lean Inception, BDD, Product 7D, SCRUM, Kanban and other best practices to translate ideas into amazing solutions for the business.</p>
 
   <h3>Experiência</h3>
   <ul>
     <li>
-      <h4>Nome da Empresa</h4>
-      <p>Descrição da experiência e responsabilidades.</p>
+      <h4>GFT GroupGFT Group</h4>
+<p>Business Agility SpecialistBusiness Agility Specialist
+Jul 2022 - May 2023 · 11 mosJul 2022 - May 2023 · 11 mos
+BrazilBrazil
+Perform PI Planning and Lean Inception.
+Manage the Backlog.
+Specify demands with appropriate notation (BDD).
+Implement tribe and squad models.
+Apply standardized Agile maturity level assessment.
+Manage the agile maturity level of the tribe and squads.
+Participate in triads in tribe and squad ceremonies, identifying possibilities for improvement.
+Implement agile roles and responsibilities (Team Build, One-to-One Coach with triad).
+Paving the squads (scrum, kanban, build&run).
+Support the work model process, with synchronization between areas ensuring constant evolution in the maturity of the teams Identify opportunities for efficiency and productivity
+Disseminate the working model.
+Cultural transformation agent.
+Stimulate the search for efficiency in teams.Perform PI Planning and Lean Inception. Manage the Backlog. Specify demands with appropriate notation (BDD). Implement tribe and squad models. Apply standardized Agile maturity level assessment. Manage the agile maturity level of the tribe and squads. Participate in triads in tribe and squad ceremonies, identifying possibilities for improvement. Implement agile roles and responsibilities (Team Build, One-to-One Coach with triad). Paving the squads (scrum, kanban, build&run). Support the work model process, with synchronization between areas ensuring constant evolution in the maturity of the teams Identify opportunities for efficiency and productivity Disseminate the working model. Cultural transformation agent. Stimulate the search for efficiency in teams.…see more
+Skills: Product Development · Product Management · Agile Methodologies</p>
     </li>
+    
+
+    
     <!-- Adicione mais itens de experiência, se necessário -->
   </ul>
 
   <h3>Educação</h3>
   <ul>
     <li>
-      <h4>Instituição de Ensino</h4>
-      <p>Descrição do curso/conquista acadêmica.</p>
-    </li>
+      <h4>FIAP</h4>
+      <p>MBA Blockchain
     <!-- Adicione mais itens de educação, se necessário -->
   </ul>
 
